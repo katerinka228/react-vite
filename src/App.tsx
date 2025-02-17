@@ -2,10 +2,10 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import MyName from "./components/MyName";
-import LetIndex from "./components/LetIndex";
-import StateIndex from "./components/StateIndex";
-import MyAge from "./components/MyAge";
+// import MyName from "./components/MyName";
+// import LetIndex from "./components/LetIndex";
+// import StateIndex from "./components/StateIndex";
+// import MyAge from "./components/MyAge";
 import ElementList from "./components/ElementList";
 
 type typeArrayUsers = {
