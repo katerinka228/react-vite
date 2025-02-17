@@ -1,0 +1,15 @@
+.StateIndex {
+    background-color: #333333;
+    border-radius: 12px;
+    gap: 16px;
+}
+.StateIndexFalse {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 16px;
+    background-color: #888888;
+    border-radius: 12px;
+    gap: 16px;
+}
